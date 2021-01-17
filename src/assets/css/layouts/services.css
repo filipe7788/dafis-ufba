@@ -1,5 +1,5 @@
 .services__items {
-    @apply grid row-gap-12 grid-cols-2;
+    @apply grid row-gap-12 grid-cols-1;
 }
 
 .service {
